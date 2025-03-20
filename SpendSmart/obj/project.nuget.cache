@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "C3Mqb/v4LPxzP6QRmoQem3Ymq8NS2iAF/OWVy7+InhzKl73+dxhtkKB/uDE29ksTzOoRlzdttuUGCTUwDl+N1Q==",
+  "dgSpecHash": "UMdU1OqVOLudDndOtTN4GmAJqfcyDXEwdCTFKz1E7zkokKvsTDG63LjqcAfkBJ6EVXTYOs9gf+896Mg5U4HP/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.3\\microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.3\\microsoft.entityframeworkcore.inmemory.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.3\\microsoft.extensions.caching.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.3\\microsoft.extensions.caching.memory.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.logging\\9.0.3\\microsoft.extensions.logging.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.3\\system.diagnostics.diagnosticsource.9.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
