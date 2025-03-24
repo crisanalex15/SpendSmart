@@ -20,7 +20,7 @@ namespace SpendSmart.Controllers
         {
             var allExpenses = _context.Expenses.ToList();
             var totalExpenses = allExpenses.Sum(e => e.Value);
-            ViewBag.Expenses = totalExpenses;
+            ViewBag.Expenses = totalExpenses; // suma totala
             return View(allExpenses);
         }
 
@@ -58,6 +58,11 @@ namespace SpendSmart.Controllers
             }
             _context.SaveChanges();
             return RedirectToAction("Expenses");
+        }
+
+        public IActionResult Login()
+        {
+            return View("~/Views/Home/Login.cshtml");
         }
 
         public IActionResult Index()

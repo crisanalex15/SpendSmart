@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\models\\userhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\userhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,24 +35,20 @@
       "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\spendsmartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|c:\\users\\crisa\\documents\\programare\\spendsmart\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82885188-940E-46F6-AC56-AACE808338F7}|SpendSmart\\SpendSmart.csproj|solutionrelative:spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +58,164 @@
       "DocumentGroups": [
         {
           "DockedWidth": 331,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SpendSmart\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T10:11:46.942Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T20:26:50.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\UserDbContext.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T20:04:44.123Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T20:03:04.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserHandle.cs",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\UserHandle.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\UserHandle.cs",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\UserHandle.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\UserHandle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:48:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\User.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:47:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SpendSmart\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SpendSmart\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:45:14.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SpendSmart\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:03:41.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SpendSmartDbContext.cs",
               "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\SpendSmartDbContext.cs",
               "RelativeDocumentMoniker": "SpendSmart\\Models\\SpendSmartDbContext.cs",
               "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\SpendSmartDbContext.cs",
               "RelativeToolTip": "SpendSmart\\Models\\SpendSmartDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:42:06.733Z"
+              "WhenOpened": "2025-03-20T10:42:06.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateEditExpense.cshtml",
-              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
-              "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
-              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
-              "RelativeToolTip": "SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T10:15:00.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SpendSmart\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SpendSmart\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T10:10:09.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SpendSmart\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SpendSmart\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBYAAAAtAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:09:01.289Z"
+              "WhenOpened": "2025-03-20T10:09:01.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Program.cs",
               "RelativeDocumentMoniker": "SpendSmart\\Program.cs",
               "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Program.cs",
               "RelativeToolTip": "SpendSmart\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:08:09.637Z"
+              "WhenOpened": "2025-03-20T10:08:09.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "SpendSmart\\Views\\Home\\Expenses.cshtml",
               "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeToolTip": "SpendSmart\\Views\\Home\\Expenses.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-20T10:07:07.75Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Expense.cs",
-              "DocumentMoniker": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
-              "RelativeDocumentMoniker": "SpendSmart\\Models\\Expense.cs",
-              "ToolTip": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\Models\\Expense.cs",
-              "RelativeToolTip": "SpendSmart\\Models\\Expense.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:04:30.348Z"
             }
           ]
         }

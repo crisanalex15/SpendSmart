@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UMdU1OqVOLudDndOtTN4GmAJqfcyDXEwdCTFKz1E7zkokKvsTDG63LjqcAfkBJ6EVXTYOs9gf+896Mg5U4HP/g==",
+  "dgSpecHash": "YKtyCVJsjTYWqVMLZhrVrzuf5Yrw/DAGKuQ3/0OotprGI/xPFXLZdTNcRuT185nuwWm2VPlTqoc2W+6BXNZCGQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\crisa\\.nuget\\packages\\bcrypt\\1.0.0\\bcrypt.1.0.0.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.3\\microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",
@@ -18,5 +19,16 @@
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.3\\system.diagnostics.diagnosticsource.9.0.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BCrypt 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BCrypt",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
