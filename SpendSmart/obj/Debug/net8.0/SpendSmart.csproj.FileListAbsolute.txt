@@ -44,3 +44,4 @@ C:\Users\crisa\Documents\Programare\SpendSmart\SpendSmart\bin\Debug\net8.0\Micro
 C:\Users\crisa\Documents\Programare\SpendSmart\SpendSmart\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\crisa\Documents\Programare\SpendSmart\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.Up2Date
 C:\Users\crisa\Documents\Programare\SpendSmart\SpendSmart\bin\Debug\net8.0\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\crisa\Documents\Programare\SpendSmart\SpendSmart\bin\Debug\net8.0\BCrypt.Net-Next.dll

@@ -1,4 +1,4 @@
-﻿@{
+@{
     ViewData["Title"] = "Auth or Register";
     Layout = null;
 
@@ -18,7 +18,7 @@
     <div class="card p-4 shadow-sm" style="width: 350px;">
         <h2 class="text-center mb-4">@ViewData["Title"]</h2>
 
-        <form method="post" asp-controller="Home" asp-action="manageAuth">
+        <form method="post" asp-controller="Home" asp-action="manageRegister">
             <div class="mb-3">
                 <label for="Username" class="form-label">Username</label>
                 <input type="text" class="form-control" id="Username" name="Username" placeholder="Enter username">
@@ -29,11 +29,16 @@
                 <label for="Password" class="form-label">Password</label>
                 <input type="password" class="form-control" id="Password" name="Password" placeholder="Password">
             </div>
-            <button type="submit" class="btn btn-primary w-100">Submit</button>
+
+            <div class="mb-3">
+                <label for="ConfirmPassword" class="form-label">Confirm Password</label>
+                <input type="password" class="form-control" id="ConfirmPassword" name="ConfirmPassword" placeholder="Confirm Password">
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Register</button>
         </form>
 
         <div class="text-center mt-3">
-            <p>Don't have an account? <a asp-controller="Home" asp-action="Register">Sign up</a></p>
+            <p>Already have an account? <a asp-controller="Home" asp-action="Login">Login</a></p>
         </div>
     </div>
 

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YKtyCVJsjTYWqVMLZhrVrzuf5Yrw/DAGKuQ3/0OotprGI/xPFXLZdTNcRuT185nuwWm2VPlTqoc2W+6BXNZCGQ==",
+  "dgSpecHash": "dwlsXxPN1qGqHuGCM+X7/Yx558gJ30HMeciDA4U+ckM3N5oQu90MJb4v4HUpcMQ8GFhVF6B4qBnc93kCbSYX5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\crisa\\Documents\\Programare\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crisa\\.nuget\\packages\\bcrypt\\1.0.0\\bcrypt.1.0.0.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.3\\microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.3\\microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",

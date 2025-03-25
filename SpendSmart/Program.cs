@@ -12,18 +12,22 @@ namespace SpendSmart
 
             var builder = WebApplication.CreateBuilder(args);
 
+            // Adaugă serviciile de autentificare
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(options =>
+                {
+                    options.LoginPath = "/Home/Login";
+                    options.AccessDeniedPath = "/Home/Login";
+                });
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<SpendSmartDbContext>(options =>
             options.UseInMemoryDatabase("SpendSmartDb"));
+            // add service to user db
+            builder.Services.AddDbContext<UserDbContext>(options => options.UseInMemoryDatabase("userDb"));
 
-            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-.AddCookie(options =>
-    {
-        options.LoginPath = "/login";
-        options.AccessDeniedPath = "/accessdenied";
-    });
+
 
             var app = builder.Build();
 
@@ -42,6 +46,8 @@ namespace SpendSmart
 
             app.UseRouting();
 
+            // Adaugă middleware-ul de autentificare
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

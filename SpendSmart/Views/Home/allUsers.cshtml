@@ -1,0 +1,38 @@
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "All users";
+}
+
+@model List<User>
+
+<div class="text-center">
+    <h1 class="display-4">All users</h1>
+    <br />
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Id</td>
+                        <td>@user.Username</td>
+                        <td>@user.PasswordHash</td>
+                    </tr>
+                    <br>
+                }
+            }
+        </tbody>
+    </table>
+                            <td>
+                            <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Get back to Overview</a>
+
+                        </td>
+</div>

@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\crisa\Documents\Programare\SpendSmart\SpendSmart
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/crisa/Documents/Programare/SpendSmart/SpendSmart/Views/Home/allUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhbGxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/crisa/Documents/Programare/SpendSmart/SpendSmart/Views/Home/CreateEditExpense.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVFZGl0RXhwZW5zZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/crisa/Documents/Programare/SpendSmart/SpendSmart/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/crisa/Documents/Programare/SpendSmart/SpendSmart/Views/Home/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/crisa/Documents/Programare/SpendSmart/SpendSmart/Views/Shared/Error.cshtml]

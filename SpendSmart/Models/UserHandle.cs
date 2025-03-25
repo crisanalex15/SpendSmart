@@ -1,41 +1,35 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System;
+﻿using System.Security.Cryptography;
 using Microsoft.EntityFrameworkCore;
+using SpendSmart.Models;
 
-namespace SpendSmart.Models
+
+public class UserHandle
 {
-    public class UserHandle
+    private readonly UserDbContext _context;
+
+    public UserHandle(UserDbContext context)
     {
-        private readonly UserDbContext _context1;
-        private readonly PasswordHasher<User> _hasher = new();
+        _context = context;
+    }
 
-        //public AuthService(UserDbContext context)
-        //{
-        //    _context1 = context;
-        //}
+    public async Task<bool> Register(string username, string password, string role = "User")
+    {
+        if (await _context.Users.AnyAsync(u => u.Username == username))
+            return false; // User deja există
 
-        public async Task<bool> Register(string username, string password)
-        {
-            if (_context1.Users.Any(u => u.Username == username))
-                return false; // User deja existent
+        var hashedPassword = BCrypt.Net.BCrypt.HashPassword(password);
+        var user = new User { Username = username, PasswordHash = hashedPassword, Role = role };
+        _context.Users.Add(user);
+        await _context.SaveChangesAsync();
+        return true;
+    }
 
-            var user = new User
-            {
-                Username = username,
-                PasswordHash = _hasher.HashPassword(null, password)
-            };
+    public async Task<string> Login(string username, string password)
+    {
+        var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
+        if (user == null || !BCrypt.Net.BCrypt.Verify(password, user.PasswordHash))
+            return null; // Login eșuat
 
-            _context1.Users.Add(user);
-            await _context1.SaveChangesAsync();
-            return true;
-        }
-
-        public bool ValidateUser(string username, string password)
-        {
-            var user = _context1.Users.FirstOrDefault(u => u.Username == username);
-            if (user == null) return false;
-
-            return _hasher.VerifyHashedPassword(null, user.PasswordHash, password) == PasswordVerificationResult.Success;
-        }
+        return user.Role; // Returnează rolul utilizatorului
     }
 }
